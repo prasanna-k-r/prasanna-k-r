@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p>Welcome to my page! </br> I'm Prasanna, Fullstack developer . </p>
+<p>Welcome to my page! </br> I'm Prasanna, MERN stack developer.  </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,9 +26,14 @@
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/prasanna-k-r" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/prasannakr1998" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/prasannakr1998" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 <!-- [![Years Badge](https://badges.pufler.dev/years/prasanna-k-r)](https://badges.pufler.dev) -->
+My GitHub stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasanna-k-r&theme=dark)](https://git.io/streak-stats)
